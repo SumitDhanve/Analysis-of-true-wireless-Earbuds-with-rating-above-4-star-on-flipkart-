@@ -17,8 +17,8 @@ This project focuses on web scraping, data analysis, and dashboard visualization
 * 📁 The .pbix file (Power BI dashboard) is included in the repository
 
 ## Tech Stack:
-* Web Scraping: BeautifulSoup / Selenium
-* Data Analysis: Pandas, NumPy
+* Web Scraping: BeautifulSoup
+* Data Analysis: Pandas, NumPy, re
 * Visualization (EDA): Matplotlib, Seaborn
 * Dashboard: Power BI
 * Notebook Environment: Jupyter Notebook
